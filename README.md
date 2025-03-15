@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Human Scream Detection**
 
-- 🌱 I’m currently learning **Cloud computing,java**
+- 🌱 I’m currently learning **Cloud computing , Java**
 
-- 💬 Ask me about **react ,java**
+- 💬 Ask me about **C++ , Python**
 
 - 📫 How to reach me **connect.ankush07@gmail.com**
 
