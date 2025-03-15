@@ -1,4 +1,3 @@
-[![MasterHead](https://banner-github-ankush.my.canva.site/)](https://banner-github-ankush.my.canva.site/)
 <h1 align="center">Hi 👋, I'm Ankush Singh Bhadauriya</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
