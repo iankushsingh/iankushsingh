@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iankushsingh&label=Profile%20views&color=0e75b6&style=flat" alt="iankushsingh" /> </p>
 
-- 🔭 I’m currently working on **Human Scream Detection**
+- 🔭 I’m currently working on **Human Scream Detection & Violence Detection**
 
 - 🌱 I’m currently learning **Cloud computing , Java**
 
