@@ -7,7 +7,7 @@
 
 
   <a href="https://www.iankushsingh.in" target="_blank">
-    <img src="http://itshivam.in/api/github-profile?username=iankushsidngh&data=followers,repositories,stars,commits&theme=default" width="90%" />
+    <img src="http://itshivam.in/api/github-profile?username=iankushsingh&data=followers,repositories,stars,commits&theme=default" width="90%" />
   </a>
 
 
