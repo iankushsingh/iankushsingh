@@ -7,7 +7,7 @@
 
 
   <a href="https://www.iankushsingh.in" target="_blank">
-    <img src="http://itshivam.in/api/github-profile?username=iankushsingh&data=followers,repositories,stars,commits&theme=default" width="90%" />
+    <img src="http://itshivam.in/api/github-profile?username=iankushsidngh&data=followers,repositories,stars,commits&theme=default" width="90%" />
   </a>
 
 
@@ -16,7 +16,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/drnmylrpb/image/upload/formal-fla.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iankushsinghd&label=Profile%20views&color=0e75b6&style=flat" alt="iankushsingh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iankushsingh&label=Profile%20views&color=0e75b6&style=flat" alt="iankushsingh" /> </p>
 
 - 🔭 I’m currently working on **Traffic Management System**
 
